@@ -100,7 +100,7 @@ public class LeafLoadingView extends View {
         super.onDraw(canvas);
         mBackgroundPaint = new Paint(0xbbffffff);
 
-        canvas.drawArc();
+//        canvas.drawArc();
 
     }
 }
